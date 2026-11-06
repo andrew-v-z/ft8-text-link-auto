@@ -111,8 +111,9 @@ The software will automatically configure itself based on the physical key inser
    * ACC Pin 2 (GND)      -> Common Ground.
 
 ### Hardware Reference Diagrams (IC-718 Example):
-<img width="1216" height="793" alt="vox-schematic" src="https://github.com/user-attachments/assets/02aefe03-c371-43fe-b9c5-8ff54f2904f0" />
-<img width="233" height="558" alt="vox-card" src="https://github.com/user-attachments/assets/c0fd490b-a25b-492c-b3bf-281f5d8b1a36" />
-<img width="4080" height="3072" alt="vox-box" src="https://github.com/user-attachments/assets/934f339a-eee2-4d5d-a8e1-d1aef39c5564" />
+![vox-schematic](https://github.com//andrew-v-z/ft8-text-link-auto/main/vox-schematic.png)
+![vox-card](https://github.com//andrew-v-z/ft8-text-link-auto/main/vox-card.png)
+![vox-box](https://github.com//andrew-v-z/ft8-text-link-auto/main/vox-box.jpg)
+
 
 
