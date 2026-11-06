@@ -76,5 +76,3 @@ This software architecture is a deeply customized, multichannel parallel extensi
 ## ⚖️ License
 
 This project is licensed under the **GNU General Public License v3 (GPL-3.0)**. Commercial closed-source cloning, proprietary distribution, or stripping of the open-source copyleft protection is strictly prohibited under international copyright laws.
-
-![VOX Schematic Diagram](vox-schematic.png)
