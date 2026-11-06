@@ -1,0 +1,2 @@
+*.exe linguist-binary=true
+* linguist-language=C++
