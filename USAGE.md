@@ -1,6 +1,6 @@
-==============================================
- FT8 TEXT LINK AUTO - QUICK START USER MANUAL
-==============================================
+=============================================
+FT8 TEXT LINK AUTO - QUICK START USER MANUAL
+=============================================
 
 [ENG] IMPORTANT: The software operates using TWO windows simultaneously. Both must remain open.
 The Sound Server utility launches automatically whenever you start the main program ("ft8-group.exe").
