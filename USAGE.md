@@ -1,6 +1,6 @@
-========================================================================
-           FT8 TEXT LINK AUTO - QUICK START USER MANUAL
-========================================================================
+====================================================
+     FT8 TEXT LINK AUTO - QUICK START USER MANUAL
+====================================================
 
 [ENG] IMPORTANT: The software operates using TWO windows simultaneously. Both must remain open.
 The Sound Server utility launches automatically whenever you start the main program ("ft8-group.exe").
@@ -113,5 +113,5 @@ The software will automatically configure itself based on the physical key inser
 ### Hardware Reference Diagrams (IC-718 Example):
 ![VOX Schematic Diagram](vox-schematic.png)
 ![VOX pdf Photo](vox-card.png)
-![VOX image Photo](vox-box.png)
+![VOX image Photo](vox-box.jpg)
 
