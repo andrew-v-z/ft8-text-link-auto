@@ -56,6 +56,14 @@ The system distinguishes payloads on the fly to maximize channel efficiency and 
 
 ---
 
+## 🛠️ Development & Distribution Status
+
+1. **Protocol Testing Stage:** This software is explicitly designed for protocol testing and verification. As a result, it includes comprehensive debug log outputs and evaluation interface tools.
+2. **Binary Distribution:** At this initial stage, the software is provided as compiled executable files only. If there is sufficient interest and backing from the community, the full C++ source code will be made open-source.
+3. **Interface Previews:** Demonstrations and screenshots of the operational interface screens are available in the `SCREENS` folder.
+
+---
+
 ## 📄 Credits & Acknowledgments
 
 This software architecture is a deeply customized, multichannel parallel extension wrapper built around the open-source low-level FT8 C library core developed by **Karlis Goba (YL3JG)** (available at [kgoba/ft8_lib](https://github.com)).
