@@ -110,7 +110,7 @@ The software will automatically configure itself based on the physical key inser
    * ACC Pin 8 (13.8V)    -> Connects to the VOX Circuit Power Input (powers the modem directly from the radio).
    * ACC Pin 2 (GND)      -> Common Ground.
 
-### Hardware Reference Diagrams (IC-718 Example):
+--- Hardware Reference Diagrams (IC-718 Example):
 ![VOX Schematic Diagram](vox-schematic.png)
 ![VOX switch Photo](vox-card.png)
 ![VOX image Photo](vox-box.jpg)
