@@ -1,6 +1,6 @@
 # FT8-Based Automated Parallel Tactical HF Modem (`ft8-text-link-auto`)
 
-An advanced, high-efficiency, and highly automated tactical High Frequency (HF) data communication network protocol. This system leverages the extreme weak-signal processing engine of the **FT8 protocol**, scaled up into a hybrid **TDMA/FDMA parallel channel architecture**. 
+An advanced, high-efficiency, and highly automated tactical High Frequency (HF) data communication network protocol. This system leverages the FT8 protocol's extreme weak-signal processing engine, scaled up into a hybrid TDMA/FDMA parallel channel architecture.
 
 This software transforms a standard HF/VHF transceiver into an automated text messenger capable of reliable data exchange under heavy noise and ionospheric fading, requiring no operator intervention for link establishment, clock correction, or network routing.
 
