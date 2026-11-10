@@ -69,7 +69,7 @@ The system distinguishes payloads on the fly to maximize channel efficiency and 
 This software architecture is a deeply customized, multichannel parallel extension wrapper built around the open-source low-level FT8 C library core developed by **Karlis Goba (YL3JG)** (available at [kgoba/ft8_lib](https://github.com)).
 
 * **Original Core:** Handles raw 77-bit packing, Forward Error Correction (FEC) via LDPC matrices, and basic tone modulation/demodulation.
-* **This Implementation:** Implements the parallel multi-frequency nesting, entity expanders, automated TDMA/FDMA cluster scheduling for 45 nodes, "Enigma" cryptographic device interfacing, and the automated radio-sync stack.
+This implementation: Implements parallel multi-frequency channel multiplexing, automated TDMA/FDMA cluster scheduling for 45 nodes, interfacing with the "Enigma" cryptographic device, and the automated radio-sync stack.
 
 ---
 
