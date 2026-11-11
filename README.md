@@ -5,7 +5,7 @@ An advanced, high-efficiency, and highly automated tactical High Frequency (HF) 
 This software transforms a standard HF/VHF transceiver into an automated text messenger capable of reliable data exchange under heavy noise and ionospheric fading, requiring no operator intervention for link establishment, clock correction, or network routing.
 
 
-## 📑 Architectural Manifesto & Technical Priority (FT8-TAP)
+# 📑 Architectural Manifesto & Technical Priority (FT8-TAP)
 
 In 2025, the concept of multi-channel FT8 multiplexing for tactical MANET (Mobile Ad-hoc Networks) was conceptualized and developed by the author. This architecture allows the transmission of up to 384 characters instead of the standard 13 characters within a compressed time frame by concurrently processing multiple subcarriers. 
 
