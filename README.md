@@ -5,6 +5,21 @@ An advanced, high-efficiency, and highly automated tactical High Frequency (HF) 
 This software transforms a standard HF/VHF transceiver into an automated text messenger capable of reliable data exchange under heavy noise and ionospheric fading, requiring no operator intervention for link establishment, clock correction, or network routing.
 
 
+## 📑 Architectural Manifesto & Technical Priority (FT8-TAP)
+
+In 2025, the concept of multi-channel FT8 multiplexing for tactical MANET (Mobile Ad-hoc Networks) was conceptualized and developed by the author. This architecture allows the transmission of up to 384 characters instead of the standard 13 characters within a compressed time frame by concurrently processing multiple subcarriers. 
+
+Alongside this breakthrough, a specialized tactical radio cluster protocol was engineered, establishing fully automated, autonomous communication infrastructure for up to 46 radio stations. This protocol is officially designated as FT8-TAP (Tactical Advanced Protocol).
+
+
+## 📑 Citation & Academic/Technical Reference
+
+If you are using this protocol for testing, field operations, radio research, or referencing its architecture in your own projects, you must credit the author. 
+
+Please use the following format for citations and references:
+Andrew Zaharov (andrew-v-z), "Advanced Multi-Channel Tactical HF Modem (ft8-text-link-auto)", GitHub Repository, 2026.
+
+
 ## ⚡ Core Concepts & Theoretical Foundation
 
 • Deep Noise Penetration: The core modem utilizes the underlying mathematical engine of FT8, allowing error-free data decoding at Signal-to-Noise Ratios (SNR) down to -20 dB — conditions where human voice or standard digital modes fail completely.
