@@ -43,7 +43,7 @@ Andrew Zaharov (andrew-v-z), "Advanced Multi-Channel Tactical HF Modem (ft8-text
 
 • Flexible Messaging System: Handles automated transmission, receipt, and local database storage of short messages (up to 24 characters) and long payloads (up to 384 characters), complete with automated timestamping, sender IDs, and recipient IDs.
 
-• Hardware-Enforced Cryptography: To prevent unauthorized interception, all transmitted payloads are pre-encrypted before modulation using a secure cryptographic subsystem. The encryption keys reside exclusively inside a tamper-resistant hardware USB dongle. The node software remains completely locked and inoperable unless this physical electronic key is present.
+• Integrated Cryptography & Node Security: To prevent unauthorized eavesdropping, all transmitted payloads are pre-encrypted before modulation using a secure cryptographic subsystem. In production releases, these network identity parameters, encryption keys, and the specific node role (Master/Subordinate) are designed to be hard-coded and managed via an external physical hardware security token (USB dongle).
 
 • Real-Time Link Quality Analysis (LQA): The software automatically monitors ionospheric radio propagation and SNR levels between the Master station and all 45 Subordinate nodes, rendering an intuitive, glanceable connectivity map in real time.
 
