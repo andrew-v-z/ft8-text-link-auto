@@ -58,6 +58,8 @@ Network Coordination & Hardware Interface
 
 2. Hardware Connection: Physical connection to the radio transceiver is minimal and relies on standard analog audio interfaces. The computer connects to the radio via just two links: the Microphone/Line-In jack for reception and the Headphone/Line-Out jack for transmission. Push-To-Talk (PTT) is handled via automated VOX or audio-triggered interface lines.
 
+3. No soldering needed for modern rigs: An external hardware VOX is optional if your transceiver has built-in DATA VOX and adjustable RX/TX audio gain (tested with Yaesu FT-891).
+
 
 ## 🛠️ Development & Distribution Status
 
