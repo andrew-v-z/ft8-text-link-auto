@@ -1,0 +1,15 @@
+*.ilc
+*.ild
+*.ilf
+*.ils
+*.tds
+*.map
+*.obj
+*.pch
+*.local
+*.exe
+enigma.h
+rays.txt
+__history/
+Win32/
+Win64/
