@@ -2,8 +2,7 @@
 
 An advanced, high-efficiency, and highly automated tactical High Frequency (HF) data communication network protocol. This system leverages the FT8 protocol's extreme weak-signal processing engine, scaled up into an advanced multi-channel data link layout.
 
-This software transforms a standard HF/VHF transceiver into an automated text messenger capable of reliable data exchange under heavy noise and ionospheric fading, requiring no operator intervention for link establishment, clock correction, or network routing.
-
+This software transforms a standard HF/VHF transceiver into an automated text messenger capable of reliable data exchange under heavy noise and ionospheric fading, requiring no operator intervention for link establishment, clock correction, or network routing. Designed specifically for Search & Rescue (SAR) teams, remote medical units, disaster relief operations, and off-grid expeditions operating without cellular or satellite infrastructure.
 
 ## 📑 Architectural Manifesto & Technical Priority (FT8-TAP)
 
